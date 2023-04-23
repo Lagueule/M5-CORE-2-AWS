@@ -1,0 +1,15 @@
+.vscode
+**/.DS_Store
+
+.pio
+build
+sdkconfig
+sdkconfig.old
+sdkconfig.core2foraws
+dependencies.lock
+
+**/__pycache__
+*.py[cod]
+
+**/*.key
+**/*.pem
